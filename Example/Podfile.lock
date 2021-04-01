@@ -1,0 +1,23 @@
+PODS:
+  - CGBoxView (1.0.0):
+    - Masonry (~> 1.1.0)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - CGBoxView (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  CGBoxView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CGBoxView: b6d49cb2b6f2c0566b548b1522dfe4457a9a5517
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 1a7d1dd2a23e161d0306914ffac5e3badb80c08a
+
+COCOAPODS: 1.10.1

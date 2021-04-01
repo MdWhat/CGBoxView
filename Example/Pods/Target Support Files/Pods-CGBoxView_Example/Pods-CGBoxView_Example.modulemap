@@ -1,0 +1,6 @@
+framework module Pods_CGBoxView_Example {
+  umbrella header "Pods-CGBoxView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

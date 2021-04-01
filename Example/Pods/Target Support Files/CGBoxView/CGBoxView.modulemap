@@ -1,0 +1,6 @@
+framework module CGBoxView {
+  umbrella header "CGBoxView-umbrella.h"
+
+  export *
+  module * { export * }
+}
